@@ -21,3 +21,7 @@ pip install pandas
 # Run 
 jupyter lab
 ```
+
+## Results
+
+The results are presented in the jupyter notebook [modexp.ipynb](./https://github.com/hugo-dc/modexp_analysis/blob/master/modexp.ipynb).
